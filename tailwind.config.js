@@ -37,6 +37,9 @@ module.exports = {
           800: '#2d3748',
           900: '#1a202c',
         },
+        biglabs: {
+          100: '#17AFA7',
+        },
       },
       lineHeight: {
         hero: '4.5rem',
