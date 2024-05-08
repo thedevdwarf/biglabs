@@ -17,7 +17,7 @@ const Hero = () => (
         title={
           <>
             {'Blockchain Technology\n'}
-            <span className="text-biglabs-100">Provider</span>
+            <span className="text-biglabs-100">Integrator</span>
           </>
         }
         description="Web3 Solutions for companies"
