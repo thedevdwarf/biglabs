@@ -12,8 +12,6 @@ const Footer = () => (
         <li>
           <Link href="https://bigint.co">Bigint Nft Launchpad</Link>
         </li>
-        
-        
       </CenteredFooter>
     </Section>
   </Background>
