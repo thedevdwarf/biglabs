@@ -16,11 +16,11 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'Blockchain Technology\n'}
-            <span className="text-biglabs-100">Integrator</span>
+            {'Blockchain Infrastructure\n'}
+            <span className="text-biglabs-100">Studio</span>
           </>
         }
-        description="Web3 Solutions for companies"
+        description="Building Web3-native products from the ground up"
         button={
           <Link href="https://forms.gle/RRbXDbGQsdXmweAeA" target="_blank">
             <Button xl>Contact Us</Button>
