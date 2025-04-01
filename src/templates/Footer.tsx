@@ -10,13 +10,9 @@ const Footer = () => (
     <Section>
       <CenteredFooter logo={<Logo />} iconList={<></>}>
         <li>
-          <Link href="https://bigint.co">Nft Marketplace</Link>
+          <Link href="https://bigint.co">Bigint Nft Launchpad</Link>
         </li>
-        <li>
-          <Link href="https://landing.bigint.co/handle">
-            Web3 Domain system
-          </Link>
-        </li>
+        
       </CenteredFooter>
     </Section>
   </Background>
